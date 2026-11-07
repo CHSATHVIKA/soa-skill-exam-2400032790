@@ -1,0 +1,7 @@
+# Eclipse workspace + tool folders (not part of the project)
+.metadata/
+.github/
+.vscode/
+
+# build output
+target/
