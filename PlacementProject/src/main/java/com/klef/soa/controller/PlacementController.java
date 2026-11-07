@@ -19,7 +19,7 @@ public class PlacementController
     @GetMapping("/")
     public String home()
     {
-        return "Placement Service Project - SOA Skill Exam 2400032790";
+        return "Placement Service Project";
     }
 
     @PostMapping("/insert")
